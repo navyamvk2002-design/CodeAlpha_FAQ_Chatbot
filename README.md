@@ -1,4 +1,3 @@
-
 # FAQ Chatbot
 
 An intelligent FAQ chatbot built using Python, Flask, TF-IDF and Cosine Similarity. It matches user questions with a predefined FAQ dataset and returns the most relevant answer.
@@ -13,6 +12,10 @@ An intelligent FAQ chatbot built using Python, Flask, TF-IDF and Cosine Similari
 - Interactive web-based chat interface
 - Suggested questions and message timestamps
 - Responsive user interface
+
+## Application Screenshot
+
+![FAQ Chatbot Screenshot](screenshot.png)
 
 ## Technologies Used
 
@@ -32,11 +35,13 @@ FAQ_Chatbot/
 ├── templates/
 │   └── index.html
 │
+├── .gitignore
 ├── app.py
 ├── chatbot.py
 ├── faqs.csv
-├── test_chatbot.py
 ├── requirements.txt
+├── screenshot.png
+├── test_chatbot.py
 └── README.md
 ```
 
@@ -51,7 +56,7 @@ git clone https://github.com/navyamvk2002-design/CodeAlpha_FAQ_Chatbot.git
 ### 2. Navigate to the project folder
 
 ```bash
-cd FAQ_Chatbot
+cd CodeAlpha_FAQ_Chatbot
 ```
 
 ### 3. Create a virtual environment
@@ -104,6 +109,6 @@ http://127.0.0.1:5000
 
 ## Author
 
-Navya Prabhakaran
+**Navya Prabhakaran**
 
 AI Internship Project – CodeAlpha

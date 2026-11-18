@@ -45,7 +45,7 @@ FAQ_Chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/navyamvk2002-design/CodeAlpha_FAQ_Chatbot.git
 ```
 
 ### 2. Navigate to the project folder
